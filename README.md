@@ -20,7 +20,7 @@
 
 ### Решение 1
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
+1. ![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-1.JPG)
 
 ---
 
