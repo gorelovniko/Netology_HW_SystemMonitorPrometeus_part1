@@ -40,8 +40,7 @@
 
 ### Решение 2
 
-![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-2.JPG)
-![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-2.JPG)
+![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-2.1.JPG)
 
 ---
 
