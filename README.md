@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`prometheus.service — Prometheus Service Netology Lesson 9.4`" - `Горелов Николай`
+# Домашнее задание к занятию "`Prometheus Service Netology Lesson 9.4`" - `Горелов Николай`
 
 
 
@@ -20,7 +20,7 @@
 
 ### Решение 1
 
-1. ![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-1.JPG)
+![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-1.JPG)
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### Решение 2
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
+![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-2.JPG)
 
 ---
 
