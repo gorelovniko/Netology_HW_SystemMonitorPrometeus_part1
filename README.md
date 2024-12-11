@@ -61,7 +61,8 @@
 
 ### Решение 3
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
+![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-3.1.JPG)
+![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-3.2.JPG)
 
 ---
 
