@@ -78,6 +78,11 @@
 - [ ] Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
 ---
+### Решение 4
+
+![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-4.JPG)
+
+---
 
 ### Задание 5*
 Интегрируйте Grafana и Prometheus.
