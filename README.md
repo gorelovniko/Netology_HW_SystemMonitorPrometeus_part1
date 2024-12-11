@@ -86,3 +86,9 @@
 
 ### Задание 5*
 Интегрируйте Grafana и Prometheus.
+
+### Решение 5
+
+![](https://github.com/gorelovniko/Netology_HW_SystemMonitorPrometeus_part1/blob/main/img/HW_9.4-5.JPG)
+
+---
